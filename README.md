@@ -1,2 +1,2 @@
 # pairwise_imitation
-Evolutionary dynamics of cooperation with pairwise imitative revision protocols
+Evolution of cooperation in a population of agents who follow pairwise imitative rules of behaviour
