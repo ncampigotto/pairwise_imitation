@@ -1,2 +1,2 @@
 # pairwise_imitation
-Evolution of cooperation in a population of agents who follow pairwise imitative rules of behaviour
+Simulates the evolution of cooperation in a population engaged in a Stag Hunt game. Revising agents follow pairwise imitative rules of behaviour.
